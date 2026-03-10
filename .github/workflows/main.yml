@@ -1,0 +1,66 @@
+name: Fetch and Create Single M3U
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-create:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch playlists and create single M3U
+        run: |
+          # Create fresh main.m3u with header
+          echo "#EXTM3U" > main.m3u
+          echo "# ===== COMBINED PLAYLIST - Generated on $(date -u '+%Y-%m-%d %H:%M:%S UTC') =====" >> main.m3u
+          
+          # Define playlist sources (name and URL)
+          declare -A playlists
+          
+          # YOUR PLAYLISTS - Add/modify as needed
+          playlists["AKIL_SOURCE"]="https://raw.githubusercontent.com/codedbyakil/Yogi/refs/heads/main/main.m3u"
+          playlists["SuNxt"]="https://mahabuburbd.netlify.app/sun-next.m3u"
+          playlists["Backup1"]="https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/main.m3u"
+          playlists["Opplex"]="https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u"
+          playlists["SPORTS"]="https://example.com/sports.m3u"
+          playlists["MOVIES"]="https://example.com/movies.m3u"
+          # ADD MORE PLAYLISTS ABOVE AS NEEDED
+
+          # Fetch and append each playlist
+          for name in "${!playlists[@]}"
+          do
+            echo "" >> main.m3u
+            echo "# ===== $name =====" >> main.m3u
+            echo "# Source: ${playlists[$name]}" >> main.m3u
+            echo "" >> main.m3u
+            
+            # Fetch playlist and append (skip the #EXTM3U header if present)
+            curl -s -L "${playlists[$name]}" | grep -v '^#EXTM3U' >> main.m3u || echo "# Failed to fetch $name" >> main.m3u
+            
+            echo "Added $name to main.m3u"
+          done
+          
+          echo "All playlists combined successfully into main.m3u"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if main.m3u exists and has changes
+          if [ -f main.m3u ]; then
+            git add main.m3u
+            git commit -m "Update combined playlist [$(date -u '+%Y-%m-%d %H:%M:%S')]" || echo "No changes to commit"
+            git push
+          else
+            echo "main.m3u not found or not created"
+            exit 1
+          fi
