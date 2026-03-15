@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-15 01:51:27 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-15 06:49:12 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10400,14 +10400,8 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="1090506637" tvg-name="UFC Fight Night - Emmett vs Vallejos" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" tvg-language="English" group-title="Sliv events",ENG | UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1773577804~acl=/*~id=04121210849787062267185464731865~hmac=1450d81c9bcdef6c82ddf97f5d788860fa04f9b56178b7dd2999a47fddcfc878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4f01b7fc7ef197686e53bfc80d7b50d1-1773536056349
-#EXTINF:-1 tvg-id="1090506637" tvg-name="UFC Fight Night - Emmett vs Vallejos" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-UFC/master.m3u8?hdnea=exp=1773577804~acl=/*~id=04121210849787062267185464731865~hmac=1450d81c9bcdef6c82ddf97f5d788860fa04f9b56178b7dd2999a47fddcfc878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4f01b7fc7ef197686e53bfc80d7b50d1-1773536056349
-#EXTINF:-1 tvg-id="1090506637" tvg-name="UFC Fight Night - Emmett vs Vallejos" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-UFC/master.m3u8?hdnea=exp=1773577804~acl=/*~id=04121210849787062267185464731865~hmac=1450d81c9bcdef6c82ddf97f5d788860fa04f9b56178b7dd2999a47fddcfc878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4f01b7fc7ef197686e53bfc80d7b50d1-1773536056349
-#EXTINF:-1 tvg-id="1090506637" tvg-name="UFC Fight Night - Emmett vs Vallejos" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-UFC/master.m3u8?hdnea=exp=1773577804~acl=/*~id=04121210849787062267185464731865~hmac=1450d81c9bcdef6c82ddf97f5d788860fa04f9b56178b7dd2999a47fddcfc878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4f01b7fc7ef197686e53bfc80d7b50d1-1773536056349
+#EXTINF:-1 tvg-id="1090506678" tvg-name="South Africa Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016172/177342651465599_NZvsSA26_1t20i_13mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG |  1st T20I - 15 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773577804~acl=/*~id=04121210849787062267185464731865~hmac=1450d81c9bcdef6c82ddf97f5d788860fa04f9b56178b7dd2999a47fddcfc878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=efe8cc6eb8835e5629bdab2cb0cfeb73-1773556200139
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
