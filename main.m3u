@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-21 18:28:06 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-22 01:45:40 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10418,8 +10418,14 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="1090507338" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772437592337634_BLIGA_26_MD28_Dortmund-vs-Hamburger-SV_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Borussia Dortmund vs Hamburger SV - MD 27 - 21 Mar 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/DAI13ME-V3/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1f3a2649276f985272f89fea9a6ba192-1774115400103
+#EXTINF:-1 tvg-id="1090507348" tvg-name="UFC Fight Night - Evloev vs Murphy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg" tvg-language="English" group-title="Sliv events",ENG | UFC Fight Night - Evloev vs Murphy - 22 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/DAI16ME-UFC/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=40392a66019232a18f51c22cbe33bbaa-1774128600138
+#EXTINF:-1 tvg-id="1090507348" tvg-name="UFC Fight Night - Evloev vs Murphy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | UFC Fight Night - Evloev vs Murphy - 22 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/DAI04ME-UFC/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=40392a66019232a18f51c22cbe33bbaa-1774128600138
+#EXTINF:-1 tvg-id="1090507348" tvg-name="UFC Fight Night - Evloev vs Murphy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | UFC Fight Night - Evloev vs Murphy - 22 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/DAI05ME-UFC/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=40392a66019232a18f51c22cbe33bbaa-1774128600138
+#EXTINF:-1 tvg-id="1090507348" tvg-name="UFC Fight Night - Evloev vs Murphy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | UFC Fight Night - Evloev vs Murphy - 22 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/DAI08ME-UFC/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=40392a66019232a18f51c22cbe33bbaa-1774128600138
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
