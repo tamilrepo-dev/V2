@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-26 13:00:17 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-26 18:57:48 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10418,10 +10418,16 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="1090507517" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741598426996_IFC_Rajasthan_United_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Rajasthan United FC vs Diamond Harbour FC - 26 Mar 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000099/Rajastha2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=59cd21bc5138404fe87e3083fb4898d1-1774525800097
-#EXTINF:-1 tvg-id="1090507374" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Hero Indian Open Day 1 - 26 Mar 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Hero_Ind2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=59cd21bc5138404fe87e3083fb4898d1-1774525800097
+#EXTINF:-1 tvg-id="1090507636" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/EQ_Turki2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d172cab33874908a711a71cd4db163d6-1774549803223
+#EXTINF:-1 tvg-id="1090507667" tvg-name="UEFA Nations League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/UNL_Malt2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d172cab33874908a711a71cd4db163d6-1774549803223
+#EXTINF:-1 tvg-id="1090507661" tvg-name="UEFA Nations League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Gibralta2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d172cab33874908a711a71cd4db163d6-1774549803223
+#EXTINF:-1 tvg-id="1090507440" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Cyprus vs Belarus - 26 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Cyprus_v2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d172cab33874908a711a71cd4db163d6-1774549803223
+#EXTINF:-1 tvg-id="1090507441" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Georgia vs Israel - 26 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Georgia_2603/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d172cab33874908a711a71cd4db163d6-1774549803223
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
