@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-30 13:05:01 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-30 18:52:46 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10428,6 +10428,8 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
+#EXTINF:-1 tvg-id="1090507843" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774107054134959_INT_Friendlies26_Germany_vs_Ghana_20mar_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Germany vs Ghana - 31 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2005445/GermanyV3003/ENG/master.m3u8?hdnea=exp=1774935010~acl=/*~id=57588233347063574579957707196589~hmac=0a9b822f6ff9c7c7d4609008b82c1b584823fb916071bd6fd230b4c3d0b4a00b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ca62679b46b83c5c60a58108545f1c2b-1774894200109
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
