@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-04-04 12:40:20 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-04-04 18:33:17 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -412,10 +412,10 @@ https://m3u.8088y.fun/live/KTV.mpd?tk=testing
 #EXTINF:-1 tvg-id="sun194405" tvg-name="KTV HD" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV
 https://m3u.8088y.fun/sxt/KTV.mpd?tk=testing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=4058ba890768578093e4d30bc957b85c&key=42d335cfebf7292487522ac572d706a8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
 #EXTINF:-1 tvg-id="VIJAY.SUPER.HD.in" tvg-name="Vijay Super HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="Movies", Vijay Super HD
-https://m3u.8088y.fun/jtvp/Vijay_Super_HD.mpd?tk=testing
+https://jiotvioslive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd?hdnea=st=1775309379~exp=1775395779~acl=/*~hmac=d951512ba7c86bd5fca3b83e740844ac5d7ef8c89861645dbc2fd5a0e7755b9e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=737e9cc83a8a5a55a002fa3ca457244c:a0285e3041ff5f4efae5361e12f759db
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
@@ -10436,16 +10436,18 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b5467280f53b565cc7c65d37651d205-1775304600135
-#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b5467280f53b565cc7c65d37651d205-1775304600135
-#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b5467280f53b565cc7c65d37651d205-1775304600135
-#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b5467280f53b565cc7c65d37651d205-1775304600135
-#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Kannada" group-title="Sliv events",KAN | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b5467280f53b565cc7c65d37651d205-1775304600135
+#EXTINF:-1 tvg-id="1090513275" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ChelseaV0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
+#EXTINF:-1 tvg-id="1090513275" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ChelseaV0404/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
+#EXTINF:-1 tvg-id="1090513275" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ChelseaV0404/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
+#EXTINF:-1 tvg-id="1090513275" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ChelseaV0404/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
+#EXTINF:-1 tvg-id="1090513275" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" tvg-language="Kannada" group-title="Sliv events",KAN | Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/ChelseaV0404/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
+#EXTINF:-1 tvg-id="1090509685" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526664928346_BLIGA_26_MD28_VfB-Stuttgart-vs-Dortmund_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | VfB Stuttgart vs Borussia Dortmund - MD 28 - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d91217ce576738392ebbfe7bf65bb5c-1775326200153
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
