@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-04-11 18:35:41 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-04-12 02:00:13 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10431,8 +10431,16 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="1090525518" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Bundesli1104/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e79186b2932b943855d161337628c0ca-1775931000133
+#EXTINF:-1 tvg-id="1090526879" tvg-name="UFC 327 - Prochazka vs Ulberg" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_327_1104/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4d8d48a4a99c97770b8b1d4c446ad0d5-1775950200158
+#EXTINF:-1 tvg-id="1090526879" tvg-name="UFC 327 - Prochazka vs Ulberg" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_327_1104/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4d8d48a4a99c97770b8b1d4c446ad0d5-1775950200158
+#EXTINF:-1 tvg-id="1090526879" tvg-name="UFC 327 - Prochazka vs Ulberg" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_327_1104/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4d8d48a4a99c97770b8b1d4c446ad0d5-1775950200158
+#EXTINF:-1 tvg-id="1090526879" tvg-name="UFC 327 - Prochazka vs Ulberg" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_327_1104/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4d8d48a4a99c97770b8b1d4c446ad0d5-1775950200158
+#EXTINF:-1 tvg-id="1090526879" tvg-name="UFC 327 - Prochazka vs Ulberg" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg" tvg-language="Kannada" group-title="Sliv events",KAN | UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_327_1104/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4d8d48a4a99c97770b8b1d4c446ad0d5-1775950200158
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
