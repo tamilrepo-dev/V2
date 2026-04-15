@@ -26,11 +26,11 @@ jobs:
           declare -A playlists
           
           # YOUR PLAYLISTS - Add/modify as needed
-          playlists["AKIL_SOURCE"]="https://raw.githubusercontent.com/codedbyakil/Yogi/refs/heads/main/main.m3u"
-          playlists["SuNxt"]="https://mahabuburbd.netlify.app/sun-next.m3u"
-          playlists["Opplex"]="https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u"
-          playlists["SPORTS"]="https://example.com/sports.m3u"
-          playlists["MOVIES"]="https://example.com/movies.m3u"
+          playlists["Playlist 1"]=""
+          playlists["Playlist 2"]=""
+          playlists["Playlist 3"]=""
+          playlists["Playlist 4"]=""
+          playlists["Playlist 5"]=""
           # ADD MORE PLAYLISTS ABOVE AS NEEDED
 
           # Fetch and append each playlist
