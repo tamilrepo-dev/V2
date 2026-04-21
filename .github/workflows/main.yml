@@ -26,7 +26,7 @@ jobs:
           declare -A playlists
           
           # YOUR PLAYLISTS - Add/modify as needed
-          playlists["Playlist 1"]=""
+          playlists["Playlist 1"]="https://dance-dos-barry-pubs.trycloudflare.com/playlist.m3u"
           playlists["Playlist 2"]=""
           playlists["Playlist 3"]=""
           playlists["Playlist 4"]=""
